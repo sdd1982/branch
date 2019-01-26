@@ -1,1 +1,11 @@
-{"name":{"en":"branch"},"description":{"en":"Rama de la parte u organización"},"documentationUrl":{"en":"https://github.com/sdd1982/branch/blob/master/README.md"}}
+{
+	"name":{"en":"branch"},
+	"description":{"es":"Rama de la parte u organización"},
+	"documentationUrl":{"es":"https://github.com/sdd1982/branch/blob/master/README.md"},
+	"schemas": [
+		"release-schema.json"
+	],
+	"compatibility": [
+		"1.1"
+	]
+}
